@@ -252,9 +252,8 @@ fun GridItem(motor: Motor, onClick: () -> Unit) {
             .fillMaxWidth()
             .clickable { onClick() },
         colors = CardDefaults.cardColors(
-            containerColor = MaterialTheme.colorScheme.surface,
+            containerColor = MaterialTheme.colorScheme.surfaceVariant,
         ),
-        border = BorderStroke(1.dp, Color.Gray)
     ) {
         Column(
             modifier = Modifier.padding(8.dp),
