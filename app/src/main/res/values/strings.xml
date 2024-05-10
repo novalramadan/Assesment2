@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Gudang Motor</string>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="x_diklik">%1$s diklik</string>
+    <string name="tambah_motor">Tambah motor</string>
+    <string name="tambah_error">Belum bisa tambah motor</string>
+    <string name="nama">Nama motor</string>
+    <string name="stok">Stok motor</string>
+    <string name="yamaha">Yamaha</string>
+    <string name="honda">Honda</string>
+    <string name="suzuki">Suzuki</string>
+    <string name="kawasaki">Kawasaki</string>
+    <string name="vespa">Vespa</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_barang">Ubah Data Barang</string>
+    <string name="invalid">data tidak boleh kosong</string>
+    <string name="hapus">Hapus Barang</string>
+    <string name="opsi_lainnya">Opsi Lainnya</string>
+    <string name="pesan_hapus">Hapus Barang ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
+    <string name="cari_motor">Cari Motor</string>
+    <string name="cari">Search</string>
+    <string name="tentang_aplikasi">tentang aplikasi</string>
+    <string name="profile_name">Noval Abdurramadan</string>
+    <string name="profile_bio">pppppppppppppppppppp</string>
+    <string name="profile_picture">noval</string>
+    <string name="copyringht">Aplikasi Gudang Motor adalah sebuah aplikasi yang dirancang untuk membantu
+        pengelolaan inventaris atau stok motor di sebuah gudang atau tempat penyimpanan.
+         \n\nAplikasi ini dapat digunakan oleh pemilik atau pengelola gudang motor
+        untuk melacak informasi tentang motor yang tersedia, termasuk jumlah stok, merek, model, kondisi, dan
+        informasi lainnya yang relevan.. \n\nCopyright © 2024 Noval aAbdurramadan.\nAll rights reserved</string>
+</resources>
